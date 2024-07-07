@@ -13,3 +13,14 @@ Kmeans.py takes cleaned_data.csv as input then using kmeans clustering formula w
 And through that it was kind of obvious that the districts thoughh not nearly equal are still similar to the kmeans clutser map with centroid generally being closer to the districts HQ
 
 Refrences-https://en.wikipedia.org/wiki/K-means_clustering
+
+# Task_2
+
+Order : data.py,OCR.py,Sdata.py,eval.py
+
+References - https://web.stanford.edu/~jurafsky/slp3/4.pdf
+             https://web.stanford.edu/~jurafsky/slp3/9.pdf
+             https://youtu.be/bte8Er0QhDg?si=kzjA7wRJEdJFfzsB
+             https://youtu.be/vBlO87ZAiiw?si=ea2yQQ08vMQ_qUB3
+             https://www.youtube.com/watch?v=AsNTP8Kwu80
+             https://www.youtube.com/watch?v=YCzL96nL7j0
